@@ -1,0 +1,6 @@
+/package_index/
+/installed/**
+
+# python
+__pycache__/
+env/

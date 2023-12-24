@@ -1,0 +1,11 @@
+# How should it get the packages. Currently "Git" is the only option
+index_method = "git"
+# Where should it pull the package index from
+index_url = "https://github.com/spidertyler2005/BCL-package-repository.git"
+
+# should paths be relative to the package managers install directors?
+relative_paths = true
+
+# Paths to required folders.
+install_dir = "../installed/"
+index_clone_dir = "../package_index/"
