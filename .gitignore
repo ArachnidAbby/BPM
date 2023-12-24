@@ -1,5 +1,5 @@
 /package_index/
-/installed/**
+# /installed/
 
 # python
 __pycache__/
